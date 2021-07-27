@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Wedding",
+      "day": "August 2nd, 2021",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Haircut",
+      "day": "July 30th, 2021",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Buy Belt",
+      "day": "July 30th, 2021",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
